@@ -22,7 +22,9 @@
         "symfony/property-info": "7.1.*",
         "symfony/runtime": "7.1.*",
         "symfony/serializer": "7.1.*",
+        "symfony/stimulus-bundle": "^2.19",
         "symfony/twig-bundle": "7.1.*",
+        "symfony/ux-turbo": "^2.19",
         "symfony/yaml": "7.1.*",
         "symfonycasts/tailwind-bundle": "^0.6.0",
         "twig/extra-bundle": "^2.12|^3.0",
@@ -80,6 +82,7 @@
     },
     "require-dev": {
         "symfony/debug-bundle": "7.1.*",
+        "symfony/maker-bundle": "^1.61",
         "symfony/stopwatch": "7.1.*",
         "symfony/web-profiler-bundle": "7.1.*"
     }
